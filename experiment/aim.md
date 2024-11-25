@@ -1,1 +1,1 @@
-### Aim of the experiment
+<h2> AIM: To find Hydrostatic force on rectangular plate. </h2>
