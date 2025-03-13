@@ -1,0 +1,21 @@
+[
+
+    {
+        "question": "Find the position of centre of pressure when upper edge of rectangular plate coincides with water surface. Take d = 5.4 m, b = 2.7 m. Refer figure in the simulator.",
+        "qid": 1,
+        "option_a": "2.7 m",
+        "option_b": "3.6 m",
+        "option_c": "4 m",
+        "option_d": "5.4 m",
+        "correct_option": "b"
+    },
+    {
+        "question": "Find the position of centre of pressure when upper edge of rectangular plate coincides with water surface. Take d = 5.3 m, b = 2.1 m. Refer figure in the simulator.",
+        "qid": 2,
+        "option_a": "3.53 m",
+        "option_b": "4.22 m",
+        "option_c": "3.91 m",
+        "option_d": "2.71 m",
+        "correct_option": "a"
+    }
+]
